@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="box_one">You are number one</string>
+    <string name="box_three">You the best</string>
+    <string name="box_four">It is possible</string>
+    <string name="box_two">It is always you vs you</string>
+    <string name="box_five">Just do it</string>
+    <string name="to_play">Tap anywhere on the screen!!!</string>
+    <string name="box_six">Just believe in yourself</string>
+    <string name="box_seven">Dont ever quit</string>
+    <string name="box_eight">You got this</string>
+    <string name="box_nine">Be +</string>
+</resources>
